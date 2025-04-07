@@ -76,7 +76,3 @@ python captcha_test.py [trained_model_file]
 
 - The `CaptchaTraining.py` script includes detailed documentation and definitions for various functions and methodologies used in the model, such as Cepstral coefficients, PCA, and SVM classifiers.
 - Ensure that the dataset and file paths are correctly set according to your directory structure.
-
----
-
-**Note**: This README is a draft based on the initial review of the script contents. You may need to adjust the instructions based on the complete functionalities of the scripts and specific requirements of your project.
